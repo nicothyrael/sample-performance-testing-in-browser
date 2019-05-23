@@ -11,8 +11,11 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "eslint": "^4.19.1",
-    "lighthouse": "^2.9.4",
-    "puppeteer": "^1.4.0"
+    "eslint": "",
+    "lighthouse": "",
+    "puppeteer": ""
+  },
+  "dependencies": {
+    "lighthouse": "^5.0.0"
   }
 }
