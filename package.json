@@ -2,7 +2,7 @@
   "name": "sample-performance-testing-in-browser",
   "version": "1.0.0",
   "description": "Performance testing in browser with Puppeteer and Lighthouse",
-  "main": "index.js",
+  "main": "puppeteer-lighthouse.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "lint": "eslint .",
@@ -16,6 +16,15 @@
     "puppeteer": ""
   },
   "dependencies": {
+    "express": "^4.17.1",
     "lighthouse": "^5.0.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicothyrael/sample-performance-testing-in-browser.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nicothyrael/sample-performance-testing-in-browser/issues"
+  },
+  "homepage": "https://github.com/nicothyrael/sample-performance-testing-in-browser#readme"
 }
